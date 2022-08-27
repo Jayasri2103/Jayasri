@@ -1,3 +1,4 @@
-# Here is what i am doing now
-currently working on coding skills
-currently learning c language
+# Here is what i am working on now!!
+
+Currently working on coding skills.
+Currently learning c language.
