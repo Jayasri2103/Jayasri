@@ -1,6 +1,6 @@
 <img src="https://github.com/Jayasri2103/Jayasri/blob/main/Turquoise%20Simple%20Modern%20Linkedin%20Banner%20(1).png">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/agadi-jayasri-108278229/)](https://www.linkedin.com/in/agadi-jayasri-108278229/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/agadi-jayasri-108278229/)](https://www.linkedin.com/in/agadijayasri/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jayasri_21035/)](https://www.instagram.com/jayasri_21035/)
 [![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5ce1e6?style=flat-square&logo=CodeChef&logoColor=050a30&link=https://www.codechef.com/users/agadi_jayasri)](https://www.codechef.com/users/agadi_jayasri)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jayasriagadi@gmail.com)](mailto:jayasriagadi@gmail.com)
@@ -8,7 +8,7 @@
 
 <img align="left" width="290" height="250" alt="Agadi Jayasri" src="864929.jpg">
 
-### I'm <a href="https://www.linkedin.com/in/agadi-jayasri-108278229/" target="_blank">Agadi Jayasri</a>!
+### I'm <a href="https://www.linkedin.com/in/agadijayasri/" target="_blank">Agadi Jayasri</a>!
 
 Currently pursuing my Bachelor's degree in Information Technology and Engineering from [Guru Ghasidas Vishwavidyalaya](https://ggu.ac.in/). I am a tech enthusiast. I am currently learning Backend web development. I am always open to collaborating on projects and innovative/disruptive ideas. Interested in Backend Development.
 
