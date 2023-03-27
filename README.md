@@ -1,16 +1,16 @@
-<img src="https://github.com/Aman1605/Aman1605/blob/main/Photos/education-university-college-books-1584x396.jpg">
+<img src="https://github.com/Jayasri2103/Jayasri/blob/main/Turquoise%20Simple%20Modern%20Linkedin%20Banner%20(1).png">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/aman-pratap-singh-a45106241/)](https://www.linkedin.com/in/aman-pratap-singh-a45106241/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/amanpratapsingh_._/)](https://www.instagram.com/amanpratapsingh_._/)
-[![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5ce1e6?style=flat-square&logo=CodeChef&logoColor=050a30&link=https://www.codechef.com/users/amanpratap1932)](https://www.codechef.com/users/amanpratap1932)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:amanpratap1932002@gmail.com)](mailto:amanprataps1932002@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/AmanPratap1605)](https://twitter.com/AmanPratap1605)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5ce1e6?style=flat-square&logo=Linkedin&logoColor=050a30&link=https://www.linkedin.com/in/agadi-jayasri-108278229/)](https://www.linkedin.com/in/agadi-jayasri-108278229/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-050a30?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jayasri_21035/)](https://www.instagram.com/jayasri_21035/)
+[![CodeChef Badge](https://img.shields.io/badge/-CodeChef-5ce1e6?style=flat-square&logo=CodeChef&logoColor=050a30&link=https://www.codechef.com/users/agadi_jayasri)](https://www.codechef.com/users/agadi_jayasri)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-050a30?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jayasriagadi@gmail.com)](mailto:jayasriagadi@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-5ce1e6?style=flat-square&logo=twitter&logoColor=050a30&link=https://twitter.com/AgadiJayasri)](https://twitter.com/AgadiJayasri)
 
-<img align="left" width="290" height="250" alt="Aman Pratap Singh" src="https://github.com/Aman1605/Aman1605/blob/main/ab67706c0000bebbb886553c0bde46097e09c838.jfif">
+<img align="left" width="290" height="250" alt="Agadi Jayasri" src="https://github.com/Aman1605/Aman1605/blob/main/ab67706c0000bebbb886553c0bde46097e09c838.jfif">
 
-### I'm <a href="https://www.linkedin.com/in/aman-pratap-singh-a45106241//" target="_blank">Aman Pratap Singh</a>!
+### I'm <a href="https://www.linkedin.com/in/aman-pratap-singh-a45106241//" target="_blank">Agadi Jayasri</a>!
 
-Currently pursuing my Bachelor's degree in Information Technology and Engineering from [Guru Ghasidas Vishwavidyalaya](https://ggu.ac.in/). I am a tech enthusiast. I am currently learning full-stack web development. I am always open to collaborating on projects and innovative/disruptive ideas. Interested in Graphic designing .
+Currently pursuing my Bachelor's degree in Information Technology and Engineering from [Guru Ghasidas Vishwavidyalaya](https://ggu.ac.in/). I am a tech enthusiast. I am currently learning Backend web development. I am always open to collaborating on projects and innovative/disruptive ideas. Interested in Backend Development.
 
 ## Languages and Tools
 
