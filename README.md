@@ -25,7 +25,7 @@ Currently pursuing my Bachelor's degree in Information Technology and Engineerin
 ---
 # Github Stats
 
-<p align="center">
+<!-- <p align="center">
     <img
         height="180em"
         src="https://github-readme-stats.vercel.app/api?username=Jayasri2103&show_icons=true&hide_border=true"
@@ -34,7 +34,7 @@ Currently pursuing my Bachelor's degree in Information Technology and Engineerin
         height="130em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayasri2103&show_icons=true&hide_border=true&layout=compact&langs_count=8"
    />
-</p>
+</p> -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayasri2103&hide_border=true" height="180em" />
 </p>
